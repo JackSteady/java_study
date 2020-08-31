@@ -5,4 +5,7 @@ package com.tools.string;
  * @create 2020-08-31
  */
 public class test {
+    public static void main(String[] args) {
+        System.out.println("teate");
+g    }
 }
