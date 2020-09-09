@@ -128,7 +128,7 @@ public class TestDemoInput {
 
     /**
      * 6.九九乘法表
-     * /
+     */
     public static void jiuJiu(){
         for(int i=1;i<10;i++){
             for(int j=1;j<=i;j++){
@@ -139,11 +139,26 @@ public class TestDemoInput {
     }
 
     /**
-     *
-     * 7.求100之内的素数
+     * 7.求100之内的素数，并求和
      * */
     public static void suShu(){
+        int sum =0;
+        for(int i=2;i<=100;i++){
+            int flag =0;
+            for(int j=1;j<=Math.sqrt(i);j++){
+                if(i % j == 0){
+                    flag++;
+                }
+            }
 
+            if(flag==1){
+                sum+=i;
+                System.out.print(sum + "  ");
+                System.out.print(i+" "+"\n");
+            }
+
+
+        }
     }
 
 
@@ -164,7 +179,9 @@ public class TestDemoInput {
         //5
 //        tJCount("asfdasdfas#$%^7fadsfas");
         //6
-        jiuJiu();
+//        jiuJiu();
+        //7
+        suShu();
     }
 
 

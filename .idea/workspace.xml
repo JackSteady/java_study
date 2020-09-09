@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eccf9919-a27e-475a-8def-048a9598bccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8fc899580390cc6ca288fa85cf0aa2ffe5690278" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tools/string/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tools/string/interview/TestDemoInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_study/com/tools/string/interview/TestDemoInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/com/tools/string/interview/TestDemoInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tools/string/interview/TestDemoInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tools/string/interview/TestDemoInput.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +97,7 @@
       <workItem from="1599389027812" duration="165000" />
       <workItem from="1599389219581" duration="5461000" />
       <workItem from="1599563216328" duration="1092000" />
-      <workItem from="1599621786145" duration="4290000" />
+      <workItem from="1599621786145" duration="5699000" />
     </task>
     <servers />
   </component>
