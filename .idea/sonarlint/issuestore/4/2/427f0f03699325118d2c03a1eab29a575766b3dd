@@ -1,0 +1,32 @@
+
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ý×Þºûÿÿÿÿ8‘òö—Æ.
+X	java:S125@"<This block of commented-out lines of code should be removed.(‹Éÿ¼8ÜÎô—Æ.
+?
+java:S1659:""Declare "str4" on a separate line.(­ÿ‡8Æºà—Æ.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(è¨öôúÿÿÿÿ8æùå—Æ.
+]	java:S125n"<This block of commented-out lines of code should be removed.(¤„²úþÿÿÿÿ8þ‘ê—Æ.
+X	java:S125F"<This block of commented-out lines of code should be removed.(Ôéúö8‘òö—Æ.
+E
+java:S1148Y"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Žö¼˜Æ.
+T
+java:S2589"7Remove this expression which always evaluates to "true"(½Û÷ï8ëù…’Æ.
+?
+java:S1659:""Declare "str5" on a separate line.(­ÿ‡8Æºà—Æ.
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(ÎàŸ»8¾Øä—Æ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±çšýÿÿÿÿ8ãÍË‘Æ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶ª®Ì8Ã£í‘Æ.
+X	java:S125p"<This block of commented-out lines of code should be removed.(’ñÃ£8þ‘ê—Æ.
+<
+java:S1659<" Declare "f2" on a separate line.(óëë98Æºà—Æ.
+]	java:S125J"<This block of commented-out lines of code should be removed.(Ü½¿ãûÿÿÿÿ8»Íø—Æ.
+D
+java:S1659;""Declare "int2" on a separate line.(áù·Ôøÿÿÿÿ8Æºà—Æ.
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(¶³Œÿùÿÿÿÿ8æùå—Æ.
+?
+java:S1659:""Declare "str2" on a separate line.(­ÿ‡8Æºà—Æ.
+m	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¥Ñ8îÞÂ’Æ.
+T
+java:S2589"7Remove this expression which always evaluates to "true"(½Û÷ï8ëù…’Æ.
+?
+java:S1659:""Declare "str3" on a separate line.(­ÿ‡8Æºà—Æ.
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(åÇ÷ðÿÿÿÿÿ8‘¼€–Æ.

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eccf9919-a27e-475a-8def-048a9598bccf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8fc899580390cc6ca288fa85cf0aa2ffe5690278" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tools/string/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tools/string/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tools/string/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tools/string/interview/TestDemoInput.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,10 +27,11 @@
   <component name="ProjectId" id="1gr7x6bA2ysHoy1HfGwtzK7rwDH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../team/middleware" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestDemoInput">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="java_study" />
@@ -52,8 +56,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestDemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tools.string.interview.TestDemoInput" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tools.string.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDemoInput" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -74,7 +92,14 @@
       <workItem from="1598861104326" duration="278000" />
       <workItem from="1598882037733" duration="173000" />
       <workItem from="1598887426279" duration="679000" />
-      <workItem from="1598928339718" duration="1265000" />
+      <workItem from="1598928339718" duration="2564000" />
+      <workItem from="1599120646840" duration="948000" />
+      <workItem from="1599209495066" duration="644000" />
+      <workItem from="1599362016286" duration="12936000" />
+      <workItem from="1599389027812" duration="165000" />
+      <workItem from="1599389219581" duration="5461000" />
+      <workItem from="1599563216328" duration="1092000" />
+      <workItem from="1599621786145" duration="4290000" />
     </task>
     <servers />
   </component>
