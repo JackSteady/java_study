@@ -1,15 +1,0 @@
-
-M
-java:S11722"+Remove this unused method parameter "show".(°Úâ•şÿÿÿÿ8¥š°“Æ.
-M
-java:S1172$"+Remove this unused method parameter "area".(Ùæ‡şÿÿÿÿ8ÊšÓ“Æ.
-R
-java:S1172+"0Remove this unused method parameter "perimeter".(è¿Ÿƒşÿÿÿÿ8š¥Ò“Æ.
-i
-java:S1128"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Getter'.(éÌ’«8ùÄ“Æ.
-Y
-java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8ÊšÓ“Æ.
-n
-java:S1128"LRemove this unused import 'jdk.nashorn.internal.objects.annotations.Setter'.(µŠÚşÿÿÿÿ8ùÄ“Æ.
-G
-java:S1068"*Remove this unused "redius" private field.(œ°ùæ8Òúğ’Æ.

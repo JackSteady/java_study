@@ -1,9 +1,8 @@
-package com.tools.string.interview;
+package com.offer;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
 /**
  * @author wcj
@@ -150,38 +149,65 @@ public class TestDemoInput {
                     flag++;
                 }
             }
-
             if(flag==1){
                 sum+=i;
                 System.out.print(sum + "  ");
                 System.out.print(i+" "+"\n");
             }
-
-
         }
     }
 
+    /**
+     * 8.字符串反转
+     * @param str
+     */
+    public static void stringReversal(String str){
+        //方式1
+        StringBuffer stra = new StringBuffer(str);
+        stra.reverse();
+        System.out.println(stra);
+        //方式二
+        String a ="";
+        for(int i=str.length()-1;i>=0;i--){
+            char c=str.charAt(i);
+            a+=c;
+        }
+        System.out.println(a);
+    }
+
+    /**
+     * 1.用过那些设计模式，手写代码
+     * 2.冒泡排序，归并
+     * 3.有两个有序链表，将他们组成一个有序链表。
+     */
 
 
 
-
-
+    /**
+     *
+     *
+     */
 
     /**
      * main方法输出结果
      * @param args
      */
     public static void main(String[] args) {
-//        System.out.println(leapYear(0));
-//
-//        System.out.println(forTest(5,1));
-//        scannerDemo();
+        //2
+//      System.out.println(leapYear(0));
+        //3
+//      System.out.println(forTest(5,1));
+        //4
+//      scannerDemo();
         //5
-//        tJCount("asfdasdfas#$%^7fadsfas");
+//      tJCount("asfdasdfas#$%^7fadsfas");
         //6
-//        jiuJiu();
+//     jiuJiu();
         //7
-        suShu();
+//      suShu();
+        stringReversal("asdfasfas");
+
+
     }
 
 

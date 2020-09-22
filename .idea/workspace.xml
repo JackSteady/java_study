@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eccf9919-a27e-475a-8def-048a9598bccf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/offer/HttpClientDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/427f0f03699325118d2c03a1eab29a575766b3dd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/427f0f03699325118d2c03a1eab29a575766b3dd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/939efc3afb451c324cecbf3acb6edb33e69e05a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_study/com/tools/string/interview/TestDemoInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/com/tools/string/interview/TestDemoInput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tools/string/interview/TestDemoInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tools/string/interview/TestDemoInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tools/string/interview/TestDemoInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/TestDemoInput.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -24,26 +30,34 @@
   </component>
   <component name="ProjectId" id="1gr7x6bA2ysHoy1HfGwtzK7rwDH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../APITestMaven" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.TestDemoInput">
+    <configuration name="HttpClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.HttpClientDemo" />
+      <module name="java_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="java_study" />
@@ -55,11 +69,11 @@
       </method>
     </configuration>
     <configuration name="TestDemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tools.string.interview.TestDemoInput" />
+      <option name="MAIN_CLASS_NAME" value="com.offer.TestDemoInput" />
       <module name="java_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tools.string.interview.*" />
+          <option name="PATTERN" value="com.offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,6 +84,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestDemoInput" />
+        <item itemvalue="Application.HttpClientDemo" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -97,24 +112,36 @@
       <workItem from="1599389027812" duration="165000" />
       <workItem from="1599389219581" duration="5461000" />
       <workItem from="1599563216328" duration="1092000" />
-      <workItem from="1599621786145" duration="5699000" />
+      <workItem from="1599621786145" duration="6366000" />
+      <workItem from="1599717708494" duration="6831000" />
+      <workItem from="1599809027424" duration="5419000" />
+      <workItem from="1600677424853" duration="3438000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2725" y="80" key="FileChooserDialogImpl" timestamp="1600746759841">
+      <screen x="1920" y="-251" width="2048" height="1152" />
+    </state>
+    <state x="2725" y="80" key="FileChooserDialogImpl/0.0.1536.834/1920.-251.2048.1152@1920.-251.2048.1152" timestamp="1600746759841" />
+    <state x="2354" y="-127" key="new project wizard" timestamp="1600746863422">
+      <screen x="1920" y="-251" width="2048" height="1152" />
+    </state>
+    <state x="2354" y="-127" key="new project wizard/0.0.1536.834/1920.-251.2048.1152@1920.-251.2048.1152" timestamp="1600746863422" />
   </component>
 </project>
