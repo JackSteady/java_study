@@ -2,6 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/README.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/功能测试总结.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/性能测试总结.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/接口测试总结.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/docs/面试梳理总结.md" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

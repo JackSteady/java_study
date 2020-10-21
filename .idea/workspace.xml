@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eccf9919-a27e-475a-8def-048a9598bccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/offer/HttpClientDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/427f0f03699325118d2c03a1eab29a575766b3dd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/427f0f03699325118d2c03a1eab29a575766b3dd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/939efc3afb451c324cecbf3acb6edb33e69e05a5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/功能测试总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/性能测试总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/接口测试总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/面试梳理总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_study/com/tools/string/interview/TestDemoInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_study/com/tools/string/interview/TestDemoInput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tools/string/interview/TestDemoInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offer/TestDemoInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +52,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../APITestMaven" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../autotest" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\java_study\docs" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.TestDemoInput">
     <configuration name="HttpClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -116,6 +146,7 @@
       <workItem from="1599717708494" duration="6831000" />
       <workItem from="1599809027424" duration="5419000" />
       <workItem from="1600677424853" duration="3438000" />
+      <workItem from="1603294332765" duration="8407000" />
     </task>
     <servers />
   </component>
@@ -135,13 +166,23 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2725" y="80" key="FileChooserDialogImpl" timestamp="1600746759841">
-      <screen x="1920" y="-251" width="2048" height="1152" />
+    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603294577418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603294577418" />
+    <state x="755" y="299" key="FileChooserDialogImpl" timestamp="1603300308560">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2725" y="80" key="FileChooserDialogImpl/0.0.1536.834/1920.-251.2048.1152@1920.-251.2048.1152" timestamp="1600746759841" />
-    <state x="2354" y="-127" key="new project wizard" timestamp="1600746863422">
-      <screen x="1920" y="-251" width="2048" height="1152" />
+    <state x="755" y="299" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603300308560" />
+    <state x="407" y="112" key="new project wizard" timestamp="1603294419900">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2354" y="-127" key="new project wizard/0.0.1536.834/1920.-251.2048.1152@1920.-251.2048.1152" timestamp="1600746863422" />
+    <state x="407" y="112" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603294419900" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603296895367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603296895367" />
   </component>
 </project>
