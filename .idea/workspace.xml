@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eccf9919-a27e-475a-8def-048a9598bccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/功能测试总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/性能测试总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/接口测试总结.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/面试梳理总结.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/offer/MjTq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../autotest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,10 +71,10 @@
       <recent name="D:\code\java_study\docs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestDemoInput">
+  <component name="RunManager" selected="Application.MjTq">
     <configuration name="HttpClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.HttpClientDemo" />
-      <module name="java_study" />
+      <module name="tools_test_study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.offer.*" />
@@ -90,7 +87,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="java_study" />
+      <module name="tools_test_study" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -98,9 +95,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MjTq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.MjTq" />
+      <module name="tools_test_study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestDemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.TestDemoInput" />
-      <module name="java_study" />
+      <module name="tools_test_study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.offer.*" />
@@ -113,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MjTq" />
         <item itemvalue="Application.TestDemoInput" />
         <item itemvalue="Application.HttpClientDemo" />
         <item itemvalue="Application.Main" />
@@ -146,7 +157,8 @@
       <workItem from="1599717708494" duration="6831000" />
       <workItem from="1599809027424" duration="5419000" />
       <workItem from="1600677424853" duration="3438000" />
-      <workItem from="1603294332765" duration="8407000" />
+      <workItem from="1603294332765" duration="9482000" />
+      <workItem from="1603640144266" duration="1270000" />
     </task>
     <servers />
   </component>
@@ -166,6 +178,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" width="816" height="730" key="#Intentions" timestamp="1603640405903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="730" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1603640405903" />
     <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603294577418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -175,6 +191,22 @@
     </state>
     <state x="2725" y="80" key="FileChooserDialogImpl/0.0.1536.834/1920.-251.2048.1152@1920.-251.2048.1152" timestamp="1600746759841" />
     <state x="755" y="299" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603300308560" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603640948850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603640948850" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603640948849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603640948849" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603640948849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603640948849" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603640948850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603640948850" />
     <state x="407" y="112" key="new project wizard" timestamp="1603294419900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
