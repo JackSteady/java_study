@@ -1,6 +1,10 @@
 package com.foundation.string;
 
 public class StringSubString {
+    /**
+     * 截取字符串
+     * @param args
+     */
     public static void main(String[] args) {
         subString("subString",2,4); //bS
         subString("abcdefg",3); //defg
