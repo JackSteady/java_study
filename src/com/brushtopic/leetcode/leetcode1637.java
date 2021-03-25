@@ -1,4 +1,4 @@
-package com.foundation.leetcode;
+package com.brushtopic.leetcode;
 
 public class leetcode1637 {
     /**

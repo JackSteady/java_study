@@ -19,14 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eccf9919-a27e-475a-8def-048a9598bccf" name="Default Changelist" comment="新增面试">
-      <change beforePath="$PROJECT_DIR$/src/com/offer/HttpClientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/HttpClientDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/MjTq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/MjTq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/TestDemoInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/TestDemoInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/leetcode/leetcode1637.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/leetcode/leetcode1637.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/niukewang/feibonaqsl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/niukewang/feibonaqsl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/niukewang/string/StringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/niukewang/string/StringCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/offer/niukewang/string/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/niukewang/string/StringReverse.java" afterDir="false" />
+    <list default="true" id="eccf9919-a27e-475a-8def-048a9598bccf" name="Default Changelist" comment="修改命名">
+      <change beforePath="$PROJECT_DIR$/src/com/foundation/HttpClientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/other/HttpClientDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/foundation/MjTq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/other/MjTq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/foundation/TestDemoInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/other/TestDemoInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/foundation/leetcode/leetcode1637.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brushtopic/leetcode/leetcode1637.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/foundation/niukewang/feibonaqsl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brushtopic/niukewang/feibonaqsl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/foundation/niukewang/string/StringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/string/StringCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/foundation/niukewang/string/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/string/StringReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,16 +76,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\github\java_study\src\com\offer" />
       <recent name="D:\code\java_study\docs" />
     </key>
   </component>
   <component name="RunManager" selected="Application.MjTq">
     <configuration name="HttpClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.foundation.HttpClientDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.foundation.other.HttpClientDemo" />
       <module name="tools_test_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.foundation.*" />
+          <option name="PATTERN" value="com.foundation.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="MjTq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.foundation.MjTq" />
+      <option name="MAIN_CLASS_NAME" value="com.foundation.other.MjTq" />
       <module name="tools_test_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.foundation.*" />
+          <option name="PATTERN" value="com.foundation.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="TestDemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.foundation.TestDemoInput" />
+      <option name="MAIN_CLASS_NAME" value="com.foundation.other.TestDemoInput" />
       <module name="tools_test_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.foundation.*" />
+          <option name="PATTERN" value="com.foundation.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,7 +168,7 @@
       <workItem from="1600677424853" duration="3438000" />
       <workItem from="1603294332765" duration="9482000" />
       <workItem from="1603640144266" duration="4005000" />
-      <workItem from="1616656443849" duration="332000" />
+      <workItem from="1616656443849" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="新增面试">
       <created>1616656683495</created>
@@ -176,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616656683495</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改命名">
+      <created>1616656792494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616656792494</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,46 +204,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增面试" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增面试" />
+    <MESSAGE value="修改命名" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改命名" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" width="816" height="730" key="#Intentions" timestamp="1603640405903">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1616657063400">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="552" y="178" width="816" height="730" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1603640405903" />
-    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603294577418">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="687" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603294577418" />
-    <state x="755" y="299" key="FileChooserDialogImpl" timestamp="1603300308560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2725" y="80" key="FileChooserDialogImpl/0.0.1536.834/1920.-251.2048.1152@1920.-251.2048.1152" timestamp="1600746759841" />
-    <state x="755" y="299" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603300308560" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603641687565">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603641687565" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603641687565">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603641687565" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603641687565">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603641687565" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603641687565">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603641687565" />
-    <state x="407" y="112" key="new project wizard" timestamp="1603294419900">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2354" y="-127" key="new project wizard/0.0.1536.834/1920.-251.2048.1152@1920.-251.2048.1152" timestamp="1600746863422" />
-    <state x="407" y="112" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603294419900" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603296895367">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603296895367" />
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1616657063400" />
   </component>
 </project>

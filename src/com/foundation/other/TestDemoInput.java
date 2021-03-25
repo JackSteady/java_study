@@ -1,4 +1,4 @@
-package com.foundation;
+package com.foundation.other;
 
 import java.io.BufferedReader;
 import java.io.IOException;

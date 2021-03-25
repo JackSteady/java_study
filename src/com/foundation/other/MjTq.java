@@ -1,4 +1,4 @@
-package com.foundation;
+package com.foundation.other;
 
 public class MjTq {
     public static void main(String[] args) {

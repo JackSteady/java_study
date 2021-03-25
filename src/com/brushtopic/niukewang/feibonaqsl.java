@@ -1,4 +1,4 @@
-package com.foundation.niukewang;
+package com.brushtopic.niukewang;
 
 public class feibonaqsl {
 

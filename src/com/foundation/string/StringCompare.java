@@ -1,4 +1,4 @@
-package com.foundation.niukewang.string;
+package com.foundation.string;
 
 public class StringCompare {
     public static void main(String[] args) {
