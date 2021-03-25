@@ -1,4 +1,4 @@
-package com.offer.leetcode;
+package com.foundation.leetcode;
 
 public class leetcode1637 {
     /**

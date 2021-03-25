@@ -1,4 +1,4 @@
-package com.offer.niukewang;
+package com.foundation.niukewang;
 
 public class feibonaqsl {
 

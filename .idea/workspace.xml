@@ -19,9 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eccf9919-a27e-475a-8def-048a9598bccf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/面试梳理总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/面试梳理总结.md" afterDir="false" />
+    <list default="true" id="eccf9919-a27e-475a-8def-048a9598bccf" name="Default Changelist" comment="新增面试">
+      <change beforePath="$PROJECT_DIR$/src/com/offer/HttpClientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/HttpClientDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/MjTq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/MjTq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/TestDemoInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/TestDemoInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/leetcode/leetcode1637.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/leetcode/leetcode1637.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/niukewang/feibonaqsl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/niukewang/feibonaqsl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/niukewang/string/StringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/niukewang/string/StringCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offer/niukewang/string/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/foundation/niukewang/string/StringReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +35,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,9 +59,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/offer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -72,11 +81,11 @@
   </component>
   <component name="RunManager" selected="Application.MjTq">
     <configuration name="HttpClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.HttpClientDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.foundation.HttpClientDemo" />
       <module name="tools_test_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.offer.*" />
+          <option name="PATTERN" value="com.foundation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +104,11 @@
       </method>
     </configuration>
     <configuration name="MjTq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.MjTq" />
+      <option name="MAIN_CLASS_NAME" value="com.foundation.MjTq" />
       <module name="tools_test_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.offer.*" />
+          <option name="PATTERN" value="com.foundation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +117,11 @@
       </method>
     </configuration>
     <configuration name="TestDemoInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.TestDemoInput" />
+      <option name="MAIN_CLASS_NAME" value="com.foundation.TestDemoInput" />
       <module name="tools_test_study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.offer.*" />
+          <option name="PATTERN" value="com.foundation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,7 +167,16 @@
       <workItem from="1600677424853" duration="3438000" />
       <workItem from="1603294332765" duration="9482000" />
       <workItem from="1603640144266" duration="4005000" />
+      <workItem from="1616656443849" duration="332000" />
     </task>
+    <task id="LOCAL-00001" summary="新增面试">
+      <created>1616656683495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616656683495</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +193,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增面试" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增面试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" width="816" height="730" key="#Intentions" timestamp="1603640405903">

@@ -1,4 +1,4 @@
-package com.offer;
+package com.foundation;
 
 public class MjTq {
     public static void main(String[] args) {
