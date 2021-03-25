@@ -38,4 +38,5 @@ public class StringReverse {
     public String reverse1(String str1){
         return new StringBuffer(str1).reverse().toString();
     }
+
 }

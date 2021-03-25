@@ -2,21 +2,34 @@ package com.foundation.string;
 
 public class StringCompare {
     public static void main(String[] args) {
-        compare("ABC","AB");
+        compare("AB","AB");   //0
+        compare("vc","cv");  //v-c ASCII码
+        compare("abc","ab"); //1
+        compare("ab","abc"); //-1
+
     }
 
     /**
-     * compareTO 先通过字符数组计算出字符串长度，在通过math.min方法取出字符数组最小值；再将字符类型char类型取出；
-     * while循环时，先判断字符数组长度是否小于k，k代表循环次数，初始值是0；如果K<lim,进入循环比较，如果字符ASCII码不相等，则用字符A-字符B，结束
-     * 如果K>=lim,直接用字符数组长度A-字符数组长度B，结束；
-     *
-     *
-     * @param a
-     * @param b
+     * 区分大小写字符串比较方法
+     * @param str1
+     * @param str2
      */
-    public static void compare(String a,String b){
-        int c = a.compareTo(b);
-        int d = a.compareToIgnoreCase(b);
+    public static void compare(String str1,String str2){
+        /**
+         * 字符串比较返回，int类型；
+         *    int len1 = value.length;
+         *    int len2 = anotherString.value.length;
+         *
+         * 比较规则4种情况：
+         * 1.如果比较字符串结果相等，比较字符长度=0；如：compare("AB","AB");   //0
+         * 2.如果比较字符串不一致，从第一个不相同字符开始计算ascii码相差值，比较ASCII码值；如：compare("vc","cv");  //v-c ASCII码
+         * 3.如果比较字符串在参数字符串之前，则结果为负 如：compare("ab","abc"); //-1
+         * 4.如果比较字符串跟随自变量字符串，则结果为正整数。如：compare("abc","ab"); //1
+         */
+        int c = str1.compareTo(str2);
+        System.out.println(c);
+
+
     }
 
 }
